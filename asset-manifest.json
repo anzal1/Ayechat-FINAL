@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Ayechat-FINAL/react-chat-app/static/css/main.06bc6f94.css",
+    "main.js": "/Ayechat-FINAL/react-chat-app/static/js/main.e25edd2b.js",
+    "static/media/loading.svg": "/Ayechat-FINAL/react-chat-app/static/media/loading.3726f6da343847fc8739066202aa9049.svg",
+    "index.html": "/Ayechat-FINAL/react-chat-app/index.html",
+    "main.06bc6f94.css.map": "/Ayechat-FINAL/react-chat-app/static/css/main.06bc6f94.css.map",
+    "main.e25edd2b.js.map": "/Ayechat-FINAL/react-chat-app/static/js/main.e25edd2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06bc6f94.css",
+    "static/js/main.e25edd2b.js"
+  ]
+}
