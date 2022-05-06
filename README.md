@@ -10,7 +10,7 @@ Fully functional, responsive chat app created in React.
 - Design inspirations: [1](https://dribbble.com/shots/15584991-Dashboard-Conversations) [2](https://dribbble.com/shots/14473800-Chat-Messenger-Web-App) [3](https://dribbble.com/shots/15343641-Messenger-Dark-theme) [4](https://www.youtube.com/watch?v=OBxTEe_9CgE) [5](https://dribbble.com/shots/15568094-Messaging-Dark-Light-Theme-Exploration) 
 
 <p align="center">
-  <a href="https://matt765.github.io/react-chat-app">-- Live link --</a> 
+  <a href="https://ayechat.netlify.app/">-- Live link --</a> 
 </p>
 
 
