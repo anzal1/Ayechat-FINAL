@@ -29,8 +29,8 @@ export const App = () => {
                 <AuthProvider>
                     <Switch>
                         {(mainComponent === "login") ?
-                            <Route path="/react-chat-app/" component={Login} /> :
-                            <Route exact path="/react-chat-app/" component={Chat} />}
+                            <Route path="/" component={Login} /> :
+                            <Route exact path="/" component={Chat} />}
 
                         <Route path="/signup" component={Signup} />
                     </Switch>
